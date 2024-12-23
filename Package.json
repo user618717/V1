@@ -1,0 +1,53 @@
+{
+  "name": "Project-xyz",
+  "version": "1.0.0",
+  "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
+  "main": "mahabub/index.js",
+  "scripts": {
+    "test": "node mahabub/test.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user618717/Project_xyz"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "youtube",
+    "yt download",
+    "Twitter",
+    "gdrive",
+    "drive link",
+    "google drive",
+    "pintarest",
+    "all media download",
+    "media download",
+    "capcut",
+    "likee",
+    "threads",
+    "mahabub"
+  ],
+  "author": "Mahabub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/user618717/Project_xyz/issues"
+  },
+  "homepage": "https://github.com/user618717/Project_xyz#readme",
+
+  "dependencies": {
+    "axios": "^1.6.7",
+    "nayan-videos-downloader": "^0.1.1"
+  }
+}
