@@ -26,9 +26,9 @@ function createRequest(endpoint, formatData) {
         resolve(response.data);
       } catch (error) {
         resolve({
-          developer: 'MAHABUB RAHMAN',
-          devfb: "https://www.facebook.com/www.xnxx.com.140",
-          devwp: "wa.me/+01613356376",
+          developer: 'MOHAMMAD RANA',
+          devfb: "https://www.facebook.com/XAICO.RANA",
+          devwp: "wa.me/+8801988686406",
           status: false,
           msg: `${capitalize(endpoint.replace(/^\w/, c => c.toUpperCase()))} API error`,
         });
@@ -40,4 +40,3 @@ function createRequest(endpoint, formatData) {
 function capitalize(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
-
