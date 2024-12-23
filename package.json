@@ -1,15 +1,15 @@
 {
-  "name": "Mahabub-dlmedia",
-  "version": "0.0.8",
+  "name": "test-dl",
+  "version": "0.0.9",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
-  "main": "rana/index.js",
+  "main": "mahabub/index.js",
   "scripts": {
-    "test": "node rana/test.js"
+    "test": "node mahabub/test.js"
   },
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xaico-RANA/rana-video-downloader"
+    "url": "git+https://github.com/user618717/V1"
   },
   "keywords": [
     "instagram",
@@ -37,14 +37,14 @@
     "capcut",
     "likee",
     "threads",
-    "rana"
+    "mahabub"
   ],
-  "author": "Rana",
+  "author": "Mahabub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Xaico-RANA/rana-video-downloader/issues"
+    "url": "https://github.com/user618717/V1/issues"
   },
-  "homepage": "https://github.com/Xaico-RANA/rana-video-downloader#readme",
+  "homepage": "https://github.com/user618717/V1#readme",
 
   "dependencies": {
     "axios": "^1.6.7",
